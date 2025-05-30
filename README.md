@@ -103,7 +103,7 @@ endmodule
 
 
 
-### Simulation Waveforms
+### Simulation Waveforms 
 
 ![Screenshot (130)](https://github.com/user-attachments/assets/1a2f8fc0-967e-42aa-ac39-8e8ea44fc8cf)
 
